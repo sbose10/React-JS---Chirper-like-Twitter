@@ -1,3 +1,8 @@
+# Created my first React Project 
+
+## Video Output
+<img src="https://github.com/sbose10/React-JS---Chirper-like-Twitter/blob/main/ezgif.com-gif-maker%20(1).gif"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
